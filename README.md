@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/bison.svg)](https://travis-ci.com/globalbioticinteractions/bison) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/bison)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/bison) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/usgs-bison.svg)](https://travis-ci.com/globalbioticinteractions/usgs-bison) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/usgs-bison)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/usgs-bison) 
 
 
 Configuration to help make the records in collection of USGS Biodiversity Information Serving Our Nation (BISON, https://bison.usgs.gov) IPT available through Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
