@@ -1,0 +1,7 @@
+{ 
+  "format": "rss",
+  "citation": "USGS Biodiversity Information Serving Our Nation (BISON) IPT",
+  "url": "https://bison.usgs.gov/ipt/rss.do",
+  "hasDependencies": false,
+  "shouldResolveReferences": false
+}
